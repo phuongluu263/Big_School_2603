@@ -110,3 +110,4 @@ C:\Users\luuth\source\repos\Big_School_LTP_2603\Big_School_LTP_2603\obj\Debug\Bi
 C:\Users\luuth\source\repos\Big_School_LTP_2603\Big_School_LTP_2603\obj\Debug\Big_School_LTP_2603.csproj.GenerateResource.cache
 C:\Users\luuth\source\repos\Big_School_LTP_2603\Big_School_LTP_2603\obj\Debug\Big_School_LTP_2603.Migrations.CreateTableCourse.resources
 C:\Users\luuth\source\repos\Big_School_LTP_2603\Big_School_LTP_2603\obj\Debug\Big_School_LTP_2603.Migrations.PopulateCategoryTable.resources
+C:\Users\luuth\source\repos\Big_School_LTP_2603\Big_School_LTP_2603\obj\Debug\Big_School_LTP_2603.Migrations.AddNameColumnToApplicationUser.resources
