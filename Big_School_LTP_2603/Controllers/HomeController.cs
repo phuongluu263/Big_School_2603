@@ -18,9 +18,9 @@ namespace Big_School_LTP_2603.Controllers
         public ActionResult Index()
         {
             var upcommingCourses = _dbContext.Courses
-                .Where(c => c.DateTime > DateTime.Now)
                 .Include(c => c.Lecturer)
-                .Include(c => c.Category); 
+                .Include(c => c.Category)
+                .Where(c => c.DateTime > DateTime.Now); 
             return View(upcommingCourses);
         }
 
